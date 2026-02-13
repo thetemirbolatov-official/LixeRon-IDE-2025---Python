@@ -161,7 +161,7 @@
 ## 🌐 Соцсети и контакты
 
 - **Автор**: thetemirbolatov
-- **GitHub**: https://github.com/ftoop17
+- **GitHub**: https://github.com/thetemirbolatov-official
 - **Telegram**: https://t.me/thetemirbolatov
 - **VK**: https://vk.com/thetemirbolatov
 
