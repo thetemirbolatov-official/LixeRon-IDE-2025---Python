@@ -213,7 +213,7 @@ MIT License - свободное использование, модификац�
 
 - **Email**: mirajestory@gmail.com
 - **Telegram**: @thetemirbolatov
-- **GitHub Issues**: https://github.com/ftoop17
+- **GitHub Issues**: https://github.com/thetemirbolatov-official
 
 ## ⭐ Поддержать проект
 
